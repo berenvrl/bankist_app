@@ -9,7 +9,7 @@ Project is built with HTML, CSS, JavaScript.
 
 # Reach Bankist App
 
-You can reach the project here, [Bankistapp](http://127.0.0.1:5500/bankist_app/index.html)
+You can reach the project here, [Bankistapp](https://bankistappberen.netlify.app/)
 To log in the app, you need to type user and pin. Please use these to login:
 user: bv
 pin:1111
